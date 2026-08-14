@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>বিশেষ অফার ও পুরস্কার দেখুন</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f4f7f6;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            max-width: 500px;
+            width: 100%;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            padding: 30px 25px;
+            text-align: center;
+        }
+
+        .badge {
+            background-color: #ffebee;
+            color: #d32f2f;
+            font-size: 14px;
+            font-weight: bold;
+            padding: 6px 16px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #1a237e;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+
+        p {
+            font-size: 15px;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+        .features {
+            text-align: left;
+            margin-bottom: 25px;
+            background: #f9f9f9;
+            padding: 15px 20px;
+            border-radius: 10px;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: 14px;
+            color: #444;
+        }
+
+        .feature-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .feature-item span {
+            color: #2e7d32;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .cta-btn {
+            display: block;
+            width: 100%;
+            background: linear-gradient(135deg, #1e88e5, #1565c0);
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 16px 20px;
+            border-radius: 30px;
+            box-shadow: 0 4px 15px rgba(21, 101, 192, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .cta-btn:hover {
+            background: linear-gradient(135deg, #1565c0, #0d47a1);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(21, 101, 192, 0.4);
+        }
+
+        .footer-note {
+            font-size: 12px;
+            color: #888;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <span class="badge">🔥 সীমিত সময়ের জন্য</span>
+        
+        <h1>আপনার জন্য বিশেষ অফার ও রিওয়ার্ড অপেক্ষা করছে!</h1>
+        
+        <p>নিচের বোতামে ক্লিক করে এখনই আপনার অফারটি নিশ্চিত করুন। একদম সহজ এবং দ্রুত সার্ভিস।</p>
+
+        <div class="features">
+            <div class="feature-item">
+                <span>✓</span> ১০০% নিরাপদ ও নিবন্ধিত সেবা
+            </div>
+            <div class="feature-item">
+                <span>✓</span> তাৎক্ষণিক অফার অ্যাক্সেস
+            </div>
+            <div class="feature-item">
+                <span>✓</span> কোনো গোপন চার্জ নেই
+            </div>
+        </div>
+
+        <!-- আপনার স্মার্ট লিংকটি এখানে যুক্ত করা হয়েছে -->
+        <a href="https://interventioncopiedloitering.com/xi2dwysx?key=dd6d90d83bb3c24ddccd38f28c5fd150" class="cta-btn" target="_blank" rel="noopener noreferrer">
+            এখনই ক্লাইম করুন 👉
+        </a>
+
+        <p class="footer-note">সার্ভিসটি গ্রহণ করতে বা বিস্তারিত জানতে উপরের বাটনে ক্লিক করুন।</p>
+    </div>
+
+</body>
+</html>
